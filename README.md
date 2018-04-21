@@ -11,7 +11,8 @@ Cristina is a color-scheme based on 1317 for dark Sublime Text
 
 ### HTML (Angular 5) example ###
 
-![HTML](http://4.bp.blogspot.com/-CTKgZ_V_xhs/WtrRBAIT0jI/AAAAAAAAT6o/ZXXQCZFXoiw64qQTfwk6wSa6z_LxzbbUwCK4BGAYYCw/s1600/angular.png)
+<!-- ![HTML](http://4.bp.blogspot.com/-CTKgZ_V_xhs/WtrRBAIT0jI/AAAAAAAAT6o/ZXXQCZFXoiw64qQTfwk6wSa6z_LxzbbUwCK4BGAYYCw/s1600/angular.png) -->
+![HTML](http://1.bp.blogspot.com/--Ypbh5lEIxY/WtrSrSx74UI/AAAAAAAAT68/FskSB0Uu-4kJH2KKMRdfh-metXSrjg0YgCK4BGAYYCw/s1600/html.png)
 
 ### JavaScript example ###
 
