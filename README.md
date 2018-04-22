@@ -1,7 +1,7 @@
 Cristina Color Scheme
 =====================
 
-Cristina is a color-scheme based on 1317 for dark Sublime Text
+Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337-Scheme) for dark Sublime Text
 
 ## Screenshots: ##
 
