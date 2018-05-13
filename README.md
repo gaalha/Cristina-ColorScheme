@@ -31,13 +31,13 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 ### via Package Control ###
 
 1. Make sure you already have Package Control installed
-2. Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
+2. Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on macOS)
 3. Select Cristina Color Scheme and press Enter
 
 ### or Manual Installation ###
 
 1. Download the Cristina.tmTheme file
-2. Browse Packages from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
+2. Browse Packages from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on macOS)
 3. Copy the .tmTheme file to Packages
 
 
