@@ -7,24 +7,23 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 
 ### CSS example ###
 
-![CSS](http://3.bp.blogspot.com/-NMH-prWxlOM/WtrRA_6_UQI/AAAAAAAAT6g/IO3OqVvtiVENb-KGU9v9WeTKSnMYEz0oQCK4BGAYYCw/s1600/css.png)
+<!--![CSS](http://3.bp.blogspot.com/-NMH-prWxlOM/WtrRA_6_UQI/AAAAAAAAT6g/IO3OqVvtiVENb-KGU9v9WeTKSnMYEz0oQCK4BGAYYCw/s1600/css.png)-->
+![CSS](https://i.imgur.com/L12w6px.png)
 
 ### HTML (Angular 5) example ###
 
-<!-- ![HTML](http://4.bp.blogspot.com/-CTKgZ_V_xhs/WtrRBAIT0jI/AAAAAAAAT6o/ZXXQCZFXoiw64qQTfwk6wSa6z_LxzbbUwCK4BGAYYCw/s1600/angular.png) -->
-![HTML](http://1.bp.blogspot.com/--Ypbh5lEIxY/WtrSrSx74UI/AAAAAAAAT68/FskSB0Uu-4kJH2KKMRdfh-metXSrjg0YgCK4BGAYYCw/s1600/html.png)
+<!--![HTML](http://1.bp.blogspot.com/--Ypbh5lEIxY/WtrSrSx74UI/AAAAAAAAT68/FskSB0Uu-4kJH2KKMRdfh-metXSrjg0YgCK4BGAYYCw/s1600/html.png)-->
+![HTML](https://i.imgur.com/rpIJ8NV.png)
 
 ### JavaScript example ###
 
-![JavaScript](http://4.bp.blogspot.com/-1dDUnIc1QnA/WtrRBEDDMcI/AAAAAAAAT6k/nMrwTcBizV4ct_NWu063WULs4jMR4ZqtgCK4BGAYYCw/s1600/javascript.png)
-
-<!-- ### TypeScript example ###
-
-![Ruby](http://abload.de/img/ruby3urnk.jpg) -->
+<!--![JavaScript](http://4.bp.blogspot.com/-1dDUnIc1QnA/WtrRBEDDMcI/AAAAAAAAT6k/nMrwTcBizV4ct_NWu063WULs4jMR4ZqtgCK4BGAYYCw/s1600/javascript.png)-->
+![JavaScript](https://i.imgur.com/639Eceb.png)
 
 ### JSON example ###
 
-![JSON](http://4.bp.blogspot.com/-NdD7VKd3tGc/WtrRAvr50vI/AAAAAAAAT6U/cwAoYx1r0VErZz-pctBHf2rUDnFPyHiywCK4BGAYYCw/s1600/JSON.png)
+<!--![JSON](http://4.bp.blogspot.com/-NdD7VKd3tGc/WtrRAvr50vI/AAAAAAAAT6U/cwAoYx1r0VErZz-pctBHf2rUDnFPyHiywCK4BGAYYCw/s1600/JSON.png)-->
+![JSON](https://i.imgur.com/CB6tXYQ.png)
 
 ## Installation: ##
 
