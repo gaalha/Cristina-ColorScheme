@@ -45,7 +45,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F6AE59</string>
+                <string>#FFF4AF</string>
             </dict>
         </dict>
         <dict>
@@ -241,7 +241,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F9A39C</string>
+                <string>#FFBBB1</string>
             </dict>
         </dict>
         <dict>
