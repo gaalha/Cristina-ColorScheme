@@ -3,7 +3,7 @@
 <!-- 
 Author:  Edgar Mejía ~ https://github.com/edgarMejia
  -->
-<plist version="1.0">
+<plist version="1.1">
 <dict>
     <key>name</key>
     <string>Cristina</string>
@@ -56,7 +56,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F14DFB</string>
+                <string>#FF50FF</string>
             </dict>
         </dict>
         <dict>
@@ -89,7 +89,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#D4F279</string>
+                <string>#00E597</string>
             </dict>
         </dict>
         <dict>
@@ -217,7 +217,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#6699cc</string>
+                <string>#0BADE4</string>
             </dict>
         </dict>
         <dict>
