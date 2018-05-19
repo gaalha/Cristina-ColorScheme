@@ -100,7 +100,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ff5e5e</string>
+                <string>#FF4E64</string>
             </dict>
         </dict>
         <dict>
@@ -113,7 +113,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#ff5e5e</string>
+                <string>#FF4E64</string>
             </dict>
         </dict>
         <dict>
@@ -191,7 +191,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#ff5e5e</string>
+                <string>#FF4E64</string>
             </dict>
         </dict>
         <dict>
@@ -467,7 +467,7 @@ Author:  Edgar Mejía ~ https://github.com/edgarMejia
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66a9ec</string>
+                <string>#2DC6E7</string>
             </dict>
         </dict>
         <dict>
