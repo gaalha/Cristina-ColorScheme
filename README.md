@@ -3,7 +3,7 @@ Cristina Color Scheme
 
 <p align="center">
   <img src="https://img.shields.io/github/issues/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square">
-  <img src="https://img.shields.io/github/license/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square"><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FedgarMejia%2FCristina-ColorScheme"><img src="https://img.shields.io/twitter/url/https/github.com/edgarMejia/Cristina-ColorScheme.svg?style=social"></a>
+  <img src="https://img.shields.io/github/license/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square"><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FedgarMejia%2FCristina-ColorScheme"><img src="https://img.shields.io/twitter/url/https/github.com/edgarMejia/Cristina-ColorScheme.svg?style=flat-square"></a>
 </p>
 
 Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337-Scheme) for dark Sublime Text
