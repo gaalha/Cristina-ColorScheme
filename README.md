@@ -11,12 +11,16 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+"color_scheme": "Packages/Cristina Color Scheme/Cristina.tmTheme",
 "theme": "Boxy Tomorrow.sublime-theme",
 ```
 
 ```js
 // Settings
+"draw_white_space": "all",
+"fade_fold_buttons": false,
+"font_face": "Fira Code Light",
+"font_size": 11,
 "theme_accent_numix": true,
 "theme_autocomplete_item_selected_colored": true,
 "theme_dropdown_atomized": true,
