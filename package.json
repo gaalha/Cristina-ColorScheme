@@ -1,0 +1,16 @@
+{
+    "name": "Cristina",
+    "description": "",
+    "version": "1.0.1",
+    "publisher": "Edgar",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/edgarMejia/Cristina-ColorScheme.git"
+    }
+}
