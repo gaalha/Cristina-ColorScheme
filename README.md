@@ -6,27 +6,34 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 ## Screenshots: ##
 
 ![main](https://i.imgur.com/B8Ey8aw.png)
-<!--![CSS](https://i.imgur.com/L12w6px.png)-->
 
-### HTML (Angular 5) example ###
+The screenshot above shows next options in action:
 
-![HTML](http://1.bp.blogspot.com/--Ypbh5lEIxY/WtrSrSx74UI/AAAAAAAAT68/FskSB0Uu-4kJH2KKMRdfh-metXSrjg0YgCK4BGAYYCw/s1600/html.png)
-<!--![HTML](https://i.imgur.com/rpIJ8NV.png)-->
+```js
+// Activation
+"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+"theme": "Boxy Tomorrow.sublime-theme",
+```
 
-### JavaScript example ###
+```js
+// Settings
+"theme_accent_numix": true,
+"theme_autocomplete_item_selected_colored": true,
+"theme_dropdown_atomized": true,
+"theme_find_panel_materialized": true,
+"theme_grid_border_size_xs": true,
+"theme_popup_border_visible": true,
+"theme_quick_panel_border_visible": true,
+"theme_quick_panel_item_selected_colored": true,
+"theme_scrollbar_colored": true,
+"theme_scrollbar_line": true,
+"theme_sidebar_disclosure": true,
+"theme_tab_selected_transparent": true,
+"theme_tab_selected_underlined": true,
+"theme_tab_size_lg": true,
+"theme_unified": true,
+```
 
-![JavaScript](http://4.bp.blogspot.com/-1dDUnIc1QnA/WtrRBEDDMcI/AAAAAAAAT6k/nMrwTcBizV4ct_NWu063WULs4jMR4ZqtgCK4BGAYYCw/s1600/javascript.png)
-<!--![JavaScript](https://i.imgur.com/639Eceb.png)-->
-
-### TypeScript example ###
-
-![TypeScript](https://i.imgur.com/4By80nt.png)
-<!--![JavaScript](https://i.imgur.com/639Eceb.png)-->
-
-### JSON example ###
-
-![JSON](http://4.bp.blogspot.com/-NdD7VKd3tGc/WtrRAvr50vI/AAAAAAAAT6U/cwAoYx1r0VErZz-pctBHf2rUDnFPyHiywCK4BGAYYCw/s1600/JSON.png)
-<!--![JSON](https://i.imgur.com/CB6tXYQ.png)-->
 
 ## Installation: ##
 
