@@ -1,11 +1,10 @@
 Cristina Color Scheme
 =====================
 
-<!-- <p align="center">
-  <a href="https://github.com/ihodev/sublime-boxy/releases"><img src="https://img.shields.io/github/release/ihodev/sublime-boxy.svg?maxAge=3600&style=flat-square" alt="Release"></a>
-  <a href="https://packagecontrol.io/packages/Boxy%20Theme"><img src="https://img.shields.io/packagecontrol/dt/Boxy%20Theme.svg?maxAge=3600&style=flat-square" alt="Downloads"></a>
-  <a href="https://travis-ci.org/ihodev/sublime-boxy"><img src="https://img.shields.io/travis/ihodev/sublime-boxy.svg?maxAge=3600&style=flat-square" alt="Build Status"></a>
-</p> -->
+<p align="center">
+  <img src="https://img.shields.io/github/issues/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square">
+  <img src="https://img.shields.io/github/license/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square">
+</p>
 
 Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337-Scheme) for dark Sublime Text
 
