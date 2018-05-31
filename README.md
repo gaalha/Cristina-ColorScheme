@@ -5,7 +5,7 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 
 ## Screenshots: ##
 
-![main](https://i.imgur.com/Zj0aByA.png)
+![main](https://i.imgur.com/B8Ey8aw.png)
 <!--![CSS](https://i.imgur.com/L12w6px.png)-->
 
 ### HTML (Angular 5) example ###
