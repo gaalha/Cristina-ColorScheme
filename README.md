@@ -1,4 +1,4 @@
-Cristina Color Scheme
+<center>Cristina Color Scheme</center>
 =====================
 
 <p align="center">
