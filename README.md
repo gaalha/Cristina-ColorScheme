@@ -1,5 +1,4 @@
-<center>Cristina Color Scheme</center>
-=====================
+<h1 align="center">Cristina Color Scheme</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/issues/edgarMejia/Cristina-ColorScheme.svg?maxAge=3600&style=flat-square">
