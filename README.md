@@ -20,6 +20,11 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 ![JavaScript](http://4.bp.blogspot.com/-1dDUnIc1QnA/WtrRBEDDMcI/AAAAAAAAT6k/nMrwTcBizV4ct_NWu063WULs4jMR4ZqtgCK4BGAYYCw/s1600/javascript.png)
 <!--![JavaScript](https://i.imgur.com/639Eceb.png)-->
 
+### TypeScript example ###
+
+![TypeScript](https://i.imgur.com/K5M0Z1e.png)
+<!--![JavaScript](https://i.imgur.com/639Eceb.png)-->
+
 ### JSON example ###
 
 ![JSON](http://4.bp.blogspot.com/-NdD7VKd3tGc/WtrRAvr50vI/AAAAAAAAT6U/cwAoYx1r0VErZz-pctBHf2rUDnFPyHiywCK4BGAYYCw/s1600/JSON.png)
