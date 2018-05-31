@@ -22,7 +22,7 @@ Cristina is a color-scheme inspired by [1317](https://github.com/MarkMichos/1337
 
 ### TypeScript example ###
 
-![TypeScript](https://i.imgur.com/K5M0Z1e.png)
+![TypeScript](https://i.imgur.com/4By80nt.png)
 <!--![JavaScript](https://i.imgur.com/639Eceb.png)-->
 
 ### JSON example ###
